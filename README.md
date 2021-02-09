@@ -4,9 +4,13 @@ portswigger Web Security Academy  V1.0
 
 # 0xw0rm_Portswigger
 1-SQL injection
+
 2-Authentication
+
 3-Directory traversal
+
 4-Command injection
+
 5-Business logic vulnerabilities
 6-Information disclosure
 7-Access control
